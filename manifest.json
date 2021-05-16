@@ -1,0 +1,15 @@
+{
+    "name": "DriftRace",
+    "short_name": "DriftRace",
+    "lang": "en-US",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#FF9800",
+    "background_color": "#FF9800",
+    "icons": [
+      {
+        "src": "/TemplateData/favicon.png",
+        "sizes": "256x256"
+      }
+    ]
+  }
